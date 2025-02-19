@@ -1,0 +1,36 @@
+html , body{
+    height: 100%;
+}
+
+#one{
+    display: flex;
+    position: relative;
+    height: 50%;
+    width: 50%;
+    background-color: aqua;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#three{
+    
+    height: 100px;
+    width: 170px;
+    border-radius: ;
+    background-color: rgb(255, 0, 0);
+    border-radius: 25px;
+}
+
+#two{
+    position: absolute;
+    
+    height: 0px;
+    width: 0px;
+    border-bottom: 20px solid transparent;
+    border-top: 20px solid transparent;
+    border-left: 40px solid white;
+    border-radius: 0px;
+    right: 111px
+}
+

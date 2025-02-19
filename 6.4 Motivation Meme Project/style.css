@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: white;
+}
+
+p{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url("/6.4 Motivation Meme Project/201709221414431e8.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+    
+#motivation-image {
+    border: 5px solid white;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+}

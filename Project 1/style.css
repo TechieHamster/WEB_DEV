@@ -1,0 +1,29 @@
+body {
+    padding: 20px;
+    background-color: #f0e2e2bc; /* Light pink background */
+    color: #112D4E;
+    font-weight: bolder;
+}
+
+#h h1 { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adds spacing between logo and text */
+    background: linear-gradient(to right, rgb(230, 179, 179), rgb(255, 0, 0), rgb(255, 145, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+}
+
+#logo {
+    border-radius: 4px;
+    padding: 3px;
+    width: 50px; 
+    height: 50px;
+}
+
+#t h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
